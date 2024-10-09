@@ -1,1 +1,1 @@
-# Solar Pasteurizer Analysis and Modeling for Fecal Sludge
+# Solar Water Heater Modeling for Fecal Sludge Pasteurization
