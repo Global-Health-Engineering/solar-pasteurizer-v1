@@ -1,1 +1,1 @@
-# solar-pasteurizer-v1
+# Solar Pasteurizer Analysis and Modeling for Fecal Sludge
