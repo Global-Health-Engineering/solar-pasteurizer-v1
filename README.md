@@ -28,3 +28,5 @@ This repository compliments the openly-accessible master’s thesis, available o
 This repository contains the python notebooks and the csv files used by Tim-Luan Grimont to complete his master thesis on 'Solar Pasteurization for Anaerobic Digestion Sludge' in 2024 at Global Health Engineering at ETH Zürich.
 
 Solar pasteurization is a sanitation technology that utilizes solar energy to heat sludge beyond the survival threshold of pathogens. Effective pasteurization requires both high temperatures and sufficient holding time to eliminate microorganisms. This study explores the adaptation of an off-the-shelf solar water heater, available in Kenya, to pasteurize the post-anaerobic digester sludge, derived from human waste.
+
+![](img/solar_pasteurizer.png)
