@@ -1,5 +1,6 @@
 <!-- badges: start -->
 [![](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.14006906.svg)](https://doi.org/10.5281/zenodo.14006906)
 <!-- badges: end -->
 
 <h1> Solar Water Heater Modeling for Fecal Sludge Pasteurization </h1>
